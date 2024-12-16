@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bernardo-macedo
-- 👀 Front-End Developer | HTML | CSS/SCSS | JavaScript | React | Vue | Tailwind | Bootstrap |
+- 👀 Front-End Developer | JavaScript | React | Vue | CSS/SCSS | Tailwind | Bootstrap |
 - :earth_africa: Portuguese living in The Netherlands
 - 🌱 I’m currently learning React and Vue
 - 📫 How to reach me:
