@@ -3,5 +3,4 @@
 - :earth_africa: Portuguese living in The Netherlands
 - 🌱 I’m currently learning React and Vue
 - 📫 How to reach me:
-- [www.bernardomacedo](https://www.bernardomacedo.com/)
 - https://www.linkedin.com/in/bernardoxmacedo/
