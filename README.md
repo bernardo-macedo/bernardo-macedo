@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning React and Vue
 - 📫 How to reach me:
 - https://www.linkedin.com/in/bernardoxmacedo/
-- 💻 [Portfolio](https://bernardo-macedo.github.io/bernardo-portfolio/)
